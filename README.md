@@ -7,15 +7,22 @@
 
 - 🌱 I’m currently learning **Redis, Kafka, ElasticSearch and much more!**
 
+- 💬 At the moment i'm working with **Terraform, AWS and Kubernetes** to create a reliable and usable Platform for Gympass Product Development Teams. 
+
 - 👯 I’m looking to collaborate on **Kubernetes and its ecosystem projects**
 
 - 🤝 I’m looking for help with **With Kubernetes and Cloud native applications**
+
+- ⚡ I also have CKA certification looking forward to other certifications
 
 - 💬 Ask me about **Linux, Bash, AWS, Kubernetes and Terraform**
 
 - 📫 How to reach me **italocavalcantechagas@gmail.com**
 
 - ⚡ Fun fact **I'm a passionate gamer since 5 years old!**
+
+- 📫 Much of my public repos are from when I was getting a degree on System Analysis Development at FIAP. 
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
