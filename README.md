@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm a passionate gamer since 5 years old!**
 
-- 📫 Much of my public repos are from when I was getting a degree on System Analysis Development at FIAP. 
+- 📫 Much of my public repos are from when I was getting a degree on System Analysis Development at FIAP. Right now I'm helping on Terraform, Helm and Linux repositories. 
 
 
 ### Blogs posts
