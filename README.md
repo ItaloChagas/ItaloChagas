@@ -5,8 +5,10 @@
 
 - 🔭 I’m currently working at **Gympass**
 
-- 🌱 I’m currently learning **Redis, Kafka, ElasticSearch and much more!**
+- 🌱 I’m currently practicing **AWS (EKS, EBS and ALB), Terraform, EKS (ArgoCD, Helm, CD), Vault and much more!**
 
+- 📫 I'm currently applying EKS exams (CKA ✔️, CKS(WIP) and CKAD(Planning)).
+  
 - 💬 At the moment i'm working with **Terraform, AWS and Kubernetes** to create a reliable and usable Platform for Gympass Product Development Teams. 
 
 - 👯 I’m looking to collaborate on **Kubernetes and its ecosystem projects**
@@ -22,7 +24,6 @@
 - ⚡ Fun fact **I'm a passionate gamer since 5 years old!**
 
 - 📫 Much of my public repos are from when I was getting a degree on System Analysis Development at FIAP. Right now I'm helping on Terraform, Helm and Linux repositories. 
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
